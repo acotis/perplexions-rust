@@ -757,6 +757,7 @@ fittest
 fix
 fixes
 fizz
+flan
 flap
 flash
 flat
