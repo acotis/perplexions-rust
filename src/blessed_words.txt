@@ -114,6 +114,7 @@ ash
 ask
 asp
 asps
+aster
 asthma
 at
 ate

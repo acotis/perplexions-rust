@@ -3639,6 +3639,7 @@ assyria
 assyrian
 assyrians
 astarte
+aster
 asterisk
 asterisks
 astern
