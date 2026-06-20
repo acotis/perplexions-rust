@@ -6282,7 +6282,6 @@ binge
 bingen
 bingham
 binghamton
-bingle
 bingley
 bingo
 binks
@@ -25974,7 +25973,6 @@ giddings
 giddy
 gideon
 gied
-gien
 giessen
 giffard
 gifford
@@ -26365,7 +26363,6 @@ glue
 glued
 gluing
 glum
-glume
 glumes
 glumly
 glumm
@@ -31948,7 +31945,6 @@ inger
 ingersoll
 ingestion
 ingham
-ingle
 ingleborough
 ingleby
 inglefield
@@ -35986,7 +35982,6 @@ letts
 lettuce
 lettuces
 letty
-leu
 leucha
 leuckart
 leucocytes
@@ -39385,7 +39380,6 @@ melted
 melting
 melton
 melts
-melun
 melvil
 melville
 melvin
@@ -45713,7 +45707,6 @@ peggotty
 peggy
 pegram
 pegs
-pegu
 peine
 peirce
 peishwa
@@ -46814,7 +46807,6 @@ pierrot
 piers
 pierson
 pies
-piet
 pieta
 pietas
 pieter
@@ -61313,7 +61305,6 @@ teetotal
 teetotaler
 teetotaller
 tegea
-tegn
 teheran
 tehran
 tehuantepec
@@ -62304,7 +62295,6 @@ tidying
 tie
 tieck
 tied
-tiel
 tiele
 tiempo
 tienen

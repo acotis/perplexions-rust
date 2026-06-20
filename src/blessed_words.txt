@@ -191,6 +191,7 @@ bet
 beyond
 bias
 bin
+binge
 bins
 bit
 bled
@@ -905,6 +906,7 @@ gist
 git
 glee
 gloat
+glue
 glum
 gnu
 go
@@ -966,6 +968,7 @@ growler
 grub
 grunt
 grunts
+guile
 guilt
 gulp
 gulps
@@ -1262,7 +1265,9 @@ luck
 lug
 lull
 lulled
+lumen
 lung
+lunge
 lust
 luster
 lusty
@@ -1304,6 +1309,7 @@ meats
 med
 meet
 melee
+melt
 men
 mend
 mends
@@ -1319,6 +1325,7 @@ met
 meta
 mine
 mines
+mingle
 mint
 mints
 miser
@@ -1362,6 +1369,7 @@ mud
 muffin
 muffins
 mug
+mule
 muse
 must
 mute
@@ -1372,6 +1380,7 @@ myst
 myth
 nab
 nacho
+nachos
 nag
 nail
 name
@@ -1584,6 +1593,7 @@ pear
 pearl
 pee
 peer
+peg
 pelt
 pen
 penal
@@ -1605,6 +1615,7 @@ pianos
 pie
 pies
 pig
+pile
 pilot
 pilots
 pin
@@ -1633,13 +1644,16 @@ playtest
 playtesting
 plea
 plenty
+plenum
 plot
 plots
 plug
 plum
 plumb
 plumbing
+plume
 pluming
+plunge
 plus
 ply
 pock
