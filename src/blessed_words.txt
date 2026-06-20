@@ -1552,6 +1552,7 @@ peer
 pelt
 pen
 pens
+pent
 pep
 per
 perch
@@ -1592,6 +1593,7 @@ plays
 playtest
 playtesting
 plea
+plenty
 plot
 plots
 plug
@@ -1600,6 +1602,7 @@ plumb
 plumbing
 pluming
 plus
+ply
 pock
 poem
 poet
@@ -2592,6 +2595,7 @@ year
 yearn
 yearns
 years
+yell
 yes
 yet
 yoga

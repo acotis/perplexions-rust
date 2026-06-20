@@ -2,10 +2,6 @@
 plgmb
 tiuni
 ——————————
-i know # I want this to not be solveable once you take "know"
-proplan
-sriigng
-——————————
  y
 pll
 toa
@@ -14,38 +10,4 @@ enti
 sdgu
 infms
 ffeat
-——————————
-# do a level that's one long row of letters
-——————————
-
-
-# === GARBAGE ===
-
-——————————
-# a   p
-# s   i
-# i   t
-# n   e
-# i   n
-# nplio
-# eviat # copy of another puzzle, but worse
-——————————
- e
- e
- e
- e
- e
- e
- e
-ies
-reg
-feb
-——————————
-g
-ne
-ie
-pe
-ke
-bee
-rie
 ——————————

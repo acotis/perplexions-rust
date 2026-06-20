@@ -169,6 +169,11 @@ impl Display for LevelSolver {
 fn main() {
     constants::initialize();
 
+    println!();
+    println!("  [x] reject word");
+    println!("  [a] accept word");
+    println!("  [w] define word");
+
     for level in constants::levels().skip(0) {
         let mut solver = LevelSolver::new(level);
         let mut blessed = LiveList::new("src/blessed_words.txt");

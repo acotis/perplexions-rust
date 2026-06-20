@@ -20262,7 +20262,6 @@ elliston
 ellos
 ellsworth
 ellwood
-elly
 elm
 elma
 elmendorf
@@ -20319,7 +20318,6 @@ elves
 elvira
 elwin
 elwood
-ely
 elyot
 elys
 elysee
@@ -36095,7 +36093,6 @@ lexicon
 lexicons
 lexikon
 lexington
-ley
 leyburn
 leyden
 leyland
@@ -36289,7 +36286,6 @@ lightwood
 ligne
 ligneous
 lignite
-lignum
 ligny
 liguria
 ligurian
@@ -37400,7 +37396,6 @@ lydian
 lydians
 lydiard
 lydie
-lye
 lyell
 lyes
 lyeth
@@ -37411,7 +37406,6 @@ lyin
 lying
 lyk
 lyke
-lyle
 lyly
 lyman
 lyme
@@ -37419,7 +37413,6 @@ lymington
 lymph
 lymphatic
 lymphatics
-lyn
 lynborough
 lynch
 lynchburg
@@ -37460,10 +37453,8 @@ lysistrata
 lysons
 lyster
 lystra
-lyte
 lytell
 lyth
-lytle
 lyttelton
 lyttleton
 lytton
@@ -40263,7 +40254,6 @@ minturn
 minty
 minucius
 minuets
-minuit
 minus
 minute
 minutely
@@ -41516,7 +41506,6 @@ mullions
 mulock
 mulready
 multa
-multi
 multicellular
 multifarious
 multiform
@@ -42287,13 +42276,11 @@ neither
 nejd
 nejdanov
 nekhludoff
-nell
 nella
 nelle
 nellie
 nelligan
 nello
-nelly
 nels
 nelsen
 nelson
@@ -45827,7 +45814,6 @@ pellets
 pellew
 pellicle
 pellucid
-pelly
 pelopidas
 peloponnese
 peloponnesian
@@ -49871,7 +49857,6 @@ puzzling
 pvt
 pvte
 pwyll
-pye
 pyecroft
 pygmalion
 pygmies
@@ -49879,7 +49864,6 @@ pygmy
 pyjamas
 pyke
 pylades
-pyle
 pylon
 pylons
 pyloric
@@ -64158,9 +64142,7 @@ tydeus
 tyed
 tying
 tyke
-tyl
 tyler
-tyll
 tylor
 tyltyl
 tympanic
