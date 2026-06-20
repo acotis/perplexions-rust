@@ -48,6 +48,8 @@ ale
 alert
 ales
 all
+alley
+ally
 aloe
 aloft
 alone
@@ -61,6 +63,8 @@ amble
 ambled
 ambler
 amen
+amend
+amends
 amiss
 amp
 an
@@ -495,6 +499,7 @@ dawn
 day
 days
 dead
+deaf
 deal
 deals
 dealt
@@ -511,6 +516,7 @@ demon
 demons
 demos
 den
+dens
 derby
 desk
 dew
@@ -519,6 +525,8 @@ diced
 did
 dill
 din
+dine
+ding
 dint
 dire
 diva
@@ -628,6 +636,7 @@ enact
 enacts
 enclose
 end
+ends
 energy
 enrage
 ens
@@ -675,6 +684,9 @@ fairer
 fairest
 fairy
 fall
+fam
+fame
+famed
 fan
 far
 farce
@@ -689,6 +701,7 @@ fates
 fats
 fear
 fears
+feast
 feat
 feats
 fed
@@ -696,6 +709,8 @@ fee
 fees
 feet
 feint
+fem
+fend
 fern
 ferns
 ferny
@@ -720,7 +735,10 @@ fill
 filter
 filters
 fin
+find
+finds
 fine
+fined
 finer
 finery
 fines
@@ -838,6 +856,8 @@ fry
 fryer
 full
 fuller
+fume
+fumed
 fun
 fund
 fur
@@ -848,6 +868,7 @@ furs
 fury
 fuse
 fusion
+gaff
 gag
 gaiety
 gal
@@ -952,6 +973,9 @@ gums
 gun
 gush
 gushes
+gust
+gut
+guts
 guy
 gym
 hack
@@ -1138,6 +1162,7 @@ legs
 lend
 lens
 lent
+lentil
 less
 lesser
 lest
@@ -1259,6 +1284,7 @@ mare
 marry
 mason
 mass
+mast
 mat
 match
 mate
@@ -1273,10 +1299,13 @@ mean
 meaner
 means
 meat
+meats
 med
 meet
 melee
 men
+mend
+mends
 menu
 mercy
 mere
@@ -1329,6 +1358,8 @@ mount
 mouth
 much
 mud
+muffin
+muffins
 mug
 muse
 must
@@ -1341,6 +1372,7 @@ myth
 nab
 nacho
 nag
+nail
 name
 named
 nap
@@ -1358,6 +1390,7 @@ nears
 neat
 neater
 neatest
+neg
 neon
 nest
 net
@@ -1551,6 +1584,7 @@ pee
 peer
 pelt
 pen
+penal
 pens
 pent
 pep
@@ -1585,6 +1619,9 @@ pit
 pizza
 pizzas
 plan
+plane
+planet
+plant
 plate
 play
 playing
@@ -1608,10 +1645,15 @@ poem
 poet
 polar
 pole
+polity
 poll
+poly
 pore
 pores
 pot
+potent
+potential
+potentially
 pouch
 pour
 pout
@@ -1648,6 +1690,7 @@ put
 puzzle
 puzzler
 puzzles
+pylon
 pyre
 pyres
 quack
@@ -1869,6 +1912,7 @@ sabre
 sac
 sack
 sad
+safe
 sag
 saga
 sage
@@ -1984,6 +2028,7 @@ shot
 shut
 sic
 sick
+side
 sift
 sifter
 silo
@@ -1993,6 +2038,9 @@ sine
 sinew
 sinewy
 sinful
+sing
+singe
+singed
 sip
 sir
 sire
@@ -2034,11 +2082,13 @@ smooch
 smooth
 smooths
 smug
+smut
 snake
 snap
 snappy
 sneak
 sneer
+sniff
 snip
 snipe
 snore
@@ -2083,8 +2133,11 @@ soy
 specs
 splay
 stack
+staff
+staffs
 stag
 stage
+staged
 stair
 star
 stare
@@ -2129,12 +2182,17 @@ strife
 strum
 stub
 stuck
+stuff
+stuffed
+stuffing
+stuffs
 stun
 stunt
 sty
 sub
 submit
 sue
+sued
 sues
 suggest
 suggestion
@@ -2178,11 +2236,15 @@ take
 taker
 talc
 tale
+talent
 tales
 tall
 taller
 tallest
+tally
+talon
 tame
+tamed
 tamer
 tames
 tan
@@ -2336,6 +2398,8 @@ torsion
 torso
 tort
 toss
+total
+totally
 tote
 tour
 tourney
@@ -2388,6 +2452,7 @@ tuck
 tucks
 tuft
 tufts
+tug
 tum
 tumor
 tuna
@@ -2418,6 +2483,7 @@ twist
 twister
 two
 twos
+type
 udder
 ulcer
 unbar
@@ -2447,6 +2513,7 @@ uric
 urn
 urns
 us
+usage
 use
 useful
 user
@@ -2596,6 +2663,8 @@ yearn
 yearns
 years
 yell
+yelp
+yep
 yes
 yet
 yoga
