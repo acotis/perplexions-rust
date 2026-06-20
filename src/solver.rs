@@ -169,7 +169,7 @@ impl Display for LevelSolver {
 fn main() {
     constants::initialize();
 
-    for level in constants::levels().skip(33) {
+    for level in constants::levels().skip(0) {
         let mut solver = LevelSolver::new(level);
         let mut blessed = LiveList::new("src/blessed_words.txt");
 
