@@ -1619,6 +1619,7 @@ allocated
 allocation
 allonby
 allons
+allot
 allotment
 allotments
 allotted
@@ -69123,6 +69124,7 @@ yelping
 yelps
 yelverton
 yemen
+yen
 yeobright
 yeoman
 yeomanry

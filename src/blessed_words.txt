@@ -49,6 +49,7 @@ alert
 ales
 all
 alley
+allot
 ally
 aloe
 aloft
@@ -2681,6 +2682,7 @@ yearns
 years
 yell
 yelp
+yen
 yep
 yes
 yet
