@@ -124,6 +124,7 @@ atoms
 atone
 atones
 atop
+ats
 auger
 aunt
 aunts
@@ -191,6 +192,7 @@ berry
 best
 bet
 beyond
+bi
 bias
 bin
 bing
@@ -727,6 +729,7 @@ feet
 feint
 fem
 fend
+fends
 fern
 ferns
 ferny
@@ -906,6 +909,7 @@ gayer
 gayest
 gear
 gears
+gee
 geese
 gel
 gem
