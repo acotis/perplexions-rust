@@ -333,6 +333,7 @@ cider
 circle
 circled
 cite
+cites
 clan
 clans
 clap
@@ -511,6 +512,11 @@ deans
 dear
 debar
 deck
+deem
+deems
+defeat
+defeats
+define
 delta
 deltas
 demand
@@ -610,6 +616,7 @@ eater
 eaters
 eats
 echo
+edge
 eel
 eels
 eerie
@@ -640,6 +647,7 @@ enacts
 enclose
 end
 ends
+enema
 energy
 enrage
 ens
@@ -709,6 +717,9 @@ feat
 feats
 fed
 fee
+feed
+feeding
+feeds
 fees
 feet
 feint
@@ -897,6 +908,7 @@ geese
 gel
 gem
 gems
+gene
 get
 gets
 geyser
@@ -1067,6 +1079,7 @@ icy
 id
 idea
 ideal
+ideas
 idle
 idled
 idler
@@ -1402,6 +1415,8 @@ nears
 neat
 neater
 neatest
+need
+needs
 neg
 neon
 nest
@@ -2107,6 +2122,7 @@ snappy
 sneak
 sneer
 sniff
+sniffed
 snip
 snipe
 snore
@@ -2170,6 +2186,7 @@ steerage
 stern
 sterner
 stew
+stick
 still
 stilt
 sting
@@ -2211,6 +2228,7 @@ sub
 submit
 sue
 sued
+suede
 sues
 suggest
 suggestion
@@ -2567,6 +2585,10 @@ waged
 wager
 wages
 waist
+wait
+waiter
+waiters
+waits
 wake
 wall
 walled
