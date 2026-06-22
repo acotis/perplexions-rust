@@ -193,6 +193,7 @@ bet
 beyond
 bias
 bin
+bing
 binge
 bins
 bit
