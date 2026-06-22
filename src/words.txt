@@ -18838,7 +18838,6 @@ dott
 dotted
 dotting
 dotty
-doty
 douai
 douaumont
 douay
@@ -20742,7 +20741,6 @@ engineered
 engineering
 engineers
 engines
-engl
 england
 englande
 englander
@@ -21705,6 +21703,7 @@ evora
 evremond
 evreux
 evringham
+ew
 ewaine
 ewe
 ewell
@@ -26225,7 +26224,6 @@ gleeful
 gleefully
 gleeson
 glegg
-glen
 glenarm
 glenarvan
 glencairn
@@ -30679,6 +30677,7 @@ icicles
 icily
 icing
 icj
+ick
 icon
 iconium
 iconoclasm
@@ -36217,7 +36216,6 @@ lights
 lightship
 lightsome
 lightwood
-ligne
 ligneous
 lignite
 ligny
@@ -42137,7 +42135,6 @@ negative
 negatived
 negatively
 negatives
-negl
 neglect
 neglected
 neglectful
@@ -64004,7 +64001,6 @@ tyde
 tydeus
 tyed
 tying
-tyke
 tyler
 tylor
 tyltyl
@@ -64127,6 +64123,7 @@ ultramarine
 ultramontane
 ulua
 ulysses
+um
 umacr
 umar
 umatilla
