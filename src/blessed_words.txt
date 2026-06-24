@@ -115,6 +115,7 @@ ash
 ask
 asp
 asps
+asset
 aster
 asthma
 at
@@ -202,12 +203,24 @@ bit
 bled
 boa
 boar
+bob
+bobs
 bone
 boo
+boob
+booby
 boon
+boost
 boot
+boots
+booty
+boss
+bosses
+bossy
 bot
 box
+boy
+boys
 bra
 bran
 brand
@@ -612,7 +625,9 @@ ears
 earwig
 ease
 easel
+eases
 east
+easy
 eat
 eaten
 eater
@@ -673,6 +688,7 @@ errata
 erroneous
 error
 errs
+essay
 estuary
 etcher
 ether
@@ -1488,6 +1504,7 @@ oath
 oaths
 oats
 oboe
+oboes
 ocean
 oceans
 ocelot
@@ -1971,6 +1988,7 @@ sap
 sapphire
 sappy
 sass
+sassy
 sat
 sate
 sated
@@ -1981,6 +1999,7 @@ sawed
 say
 sayer
 saying
+says
 scab
 scale
 scalp
@@ -2143,6 +2162,8 @@ soak
 soap
 soapy
 soar
+sob
+sobs
 sock
 sod
 sods
@@ -2317,6 +2338,7 @@ tears
 teas
 tease
 teaser
+teases
 tech
 tee
 teem
@@ -2441,6 +2463,7 @@ torsion
 torso
 tort
 toss
+tosses
 total
 totally
 tote
@@ -2710,6 +2733,9 @@ year
 yearn
 yearns
 years
+yeast
+yeasts
+yeasty
 yell
 yelp
 yen
@@ -2722,6 +2748,7 @@ yonder
 you
 your
 yours
+yoyo
 yum
 yup
 zap

@@ -3525,7 +3525,6 @@ assayed
 assayer
 assaying
 assays
-asse
 assegai
 assegais
 assemblage
@@ -3612,7 +3611,6 @@ assorted
 assorting
 assortment
 assouan
-asst
 assuage
 assuaged
 assuaging
@@ -6864,11 +6862,7 @@ bobbie
 bobbin
 bobbing
 bobbins
-bobbs
-bobbsey
-bobby
 bobcat
-bobo
 bobolink
 bobolinks
 bobs
@@ -7167,7 +7161,6 @@ booster
 boot
 bootblack
 booted
-bootes
 booth
 boothby
 booths
@@ -7241,7 +7234,6 @@ bors
 borsippa
 borthwick
 boru
-bos
 bos'n
 bosambo
 bosanquet
@@ -7249,7 +7241,6 @@ boscawen
 bosch
 bosco
 boscobel
-bose
 bosh
 bosinney
 bosio
@@ -7270,7 +7261,6 @@ bossing
 bossu
 bossuet
 bossy
-bost
 bostil
 bostock
 boston
@@ -7457,11 +7447,8 @@ boycott
 boycotted
 boycotting
 boyd
-boye
 boyer
-boyes
 boyesen
-boyet
 boyhood
 boyish
 boyishly
@@ -21406,7 +21393,6 @@ estimates
 estimating
 estimation
 estonia
-estos
 estrada
 estrange
 estranged
@@ -43216,7 +43202,6 @@ oboes
 obovate
 obovoid
 obreve
-obs
 obscene
 obscenities
 obscenity
@@ -54249,15 +54234,12 @@ sayde
 sayed
 sayer
 sayers
-sayes
-sayest
 sayeth
 saying
 sayings
 sayle
 saynt
 says
-sayst
 sayth
 sbirri
 scab
@@ -55443,7 +55425,6 @@ sessile
 session
 sessions
 sesterces
-sestos
 set
 setback
 setebos
@@ -60696,7 +60677,6 @@ syrup
 syrups
 syrupus
 syrus
-syst
 system
 systema
 systematic
@@ -61566,7 +61546,6 @@ tertsky
 tertullian
 terzky
 tesman
-tessa
 tesselated
 tessellated
 tessibel
@@ -62534,7 +62513,6 @@ toboggan
 tobogganing
 tobolsk
 toboso
-toby
 tock
 tocqueville
 toda
@@ -69037,7 +69015,6 @@ yaroslav
 yarrell
 yasmini
 yaspard
-yass
 yatton
 yaw
 yawl
@@ -69069,7 +69046,6 @@ yearningly
 yearnings
 yearns
 years
-yeas
 yeast
 yeasts
 yeasty
