@@ -1,4 +1,9 @@
 ——————————
+pizza
+pasta
+nachos
+flooms
+——————————
    t
   boys
  boyse
@@ -27,9 +32,4 @@ saip
 ruby
 onph
 eryx
-——————————
-pizza
-pasta
-nachos
-flooms
 ——————————
