@@ -2849,6 +2849,7 @@ yams
 yap
 yarn
 yarns
+yass
 yay
 year
 yearn
