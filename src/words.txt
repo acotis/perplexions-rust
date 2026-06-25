@@ -14736,7 +14736,6 @@ cricketer
 cricketers
 cricketing
 crickets
-crie
 cried
 crier
 criers
@@ -15210,10 +15209,8 @@ cupboards
 cupel
 cupful
 cupfuls
-cupid
 cupidity
 cupido
-cupids
 cupola
 cupolas
 cupp
@@ -16414,7 +16411,6 @@ degrading
 degree
 degrees
 deh
-dei
 deid
 deification
 deified
@@ -17661,7 +17657,6 @@ dips
 dipt
 diptera
 dipterous
-dipus
 dire
 direct
 directed
@@ -19043,7 +19038,6 @@ dredger
 dredges
 dredging
 dregs
-drei
 dreiser
 drelincourt
 dremmel
@@ -19184,7 +19178,6 @@ drowsiness
 drowsing
 drowsy
 drubbing
-druce
 drudge
 drudgery
 drudges
@@ -19271,7 +19264,6 @@ duchesses
 duchies
 duchy
 ducie
-ducis
 duck
 ducked
 ducking
@@ -30675,7 +30667,6 @@ ideally
 ideals
 ideas
 ideation
-idees
 identical
 identically
 identifiable
@@ -30727,7 +30718,6 @@ idyll
 idyllic
 idylls
 idyls
-iesus
 ieyasu
 if
 ifad
@@ -42130,7 +42120,6 @@ negrito
 negritos
 nehemiah
 nehushta
-neid
 neigh
 neighbor
 neighborhood
@@ -46143,7 +46132,6 @@ persistent
 persistently
 persisting
 persists
-persius
 person
 persona
 personable
@@ -46698,7 +46686,6 @@ picturesque
 picturesquely
 picturesqueness
 picturing
-picus
 pidgin
 pie
 piebald
@@ -46707,12 +46694,10 @@ pieced
 piecemeal
 pieces
 piecing
-pied
 piedmont
 piedmontese
 piedra
 piedras
-pieds
 piegan
 pier
 pierc'd
@@ -49559,7 +49544,6 @@ purchasers
 purchases
 purchasing
 purdie
-purdy
 pure
 puree
 purely
@@ -49647,7 +49631,6 @@ purveyors
 purview
 purvis
 pus
-pusey
 push
 pushed
 pusher
@@ -51345,7 +51328,6 @@ reichardt
 reichenbach
 reichs
 reichstag
-reid
 reight
 reign
 reign'd
@@ -55024,7 +55006,6 @@ segregation
 seguin
 segundo
 segur
-seid
 seide
 seidlitz
 seigneur
@@ -56207,7 +56188,6 @@ sidle
 sidled
 sidling
 sidmouth
-sidney
 sidon
 sidonia
 sidonian
@@ -56549,7 +56529,6 @@ sira
 sirach
 sirdar
 sire
-siree
 siren
 sirens
 sires
@@ -60208,7 +60187,6 @@ susceptibilities
 susceptibility
 susceptible
 susiana
-susie
 suspect
 suspected
 suspecting

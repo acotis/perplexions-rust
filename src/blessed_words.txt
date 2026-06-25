@@ -37,6 +37,7 @@ ago
 agora
 agree
 agrees
+ah
 aid
 aim
 aims
@@ -327,6 +328,7 @@ caviar
 caviare
 caw
 cay
+cede
 cell
 cello
 census
@@ -490,12 +492,21 @@ crest
 crew
 crews
 crick
+crier
+criers
+cries
+crises
 crisp
 crisped
 croak
 crop
 crow
 crowd
+cruise
+cruised
+cruiser
+cruisers
+cruises
 crust
 cry
 cuckoo
@@ -565,11 +576,15 @@ den
 dens
 deny
 derby
+desire
+desires
 desk
 dew
 dice
 diced
 did
+die
+dies
 dill
 din
 dine
@@ -577,6 +592,7 @@ ding
 dint
 dip
 dire
+disuse
 diva
 dive
 do
@@ -614,6 +630,7 @@ dreams
 drear
 drew
 drill
+drip
 drum
 drums
 dry
@@ -1669,6 +1686,7 @@ pelt
 pen
 penal
 pend
+peneus
 pens
 pent
 pep
@@ -1686,6 +1704,8 @@ pi
 piano
 pianos
 pie
+pier
+piers
 pies
 pig
 pile
@@ -1898,6 +1918,9 @@ rep
 repair
 reptile
 reptiles
+rescue
+rescuer
+rescuers
 reseated
 reset
 resin
@@ -1926,6 +1949,7 @@ rid
 riddle
 ride
 rider
+riders
 rides
 rife
 rift
@@ -1945,9 +1969,15 @@ rioters
 riotous
 riots
 rip
+ripe
+ripen
+ripens
+riper
 rise
 risen
 riser
+risers
+rises
 rite
 road
 roads
@@ -2142,6 +2172,7 @@ shut
 sic
 sick
 side
+sides
 sift
 sifter
 silo
@@ -2158,6 +2189,8 @@ sip
 sir
 sire
 siren
+sirens
+sires
 sit
 site
 sites
