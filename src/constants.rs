@@ -1,32 +1,26 @@
 
-#[allow(unused)]
-mod production {
-    use std::sync::LazyLock;
+use std::sync::LazyLock;
 
-    // STATIC IMPLEMENTATION: RESTORE WHEN DONE REMOVING WORDS
-    // AUTOMATICALLY.
+static WORDS: LazyLock<Vec<String>> = LazyLock::new(|| {
+    let mut words = 
+        include_str!("words.txt")
+            .to_ascii_uppercase()
+            .lines()
+            .map(str::to_owned)
+            .collect::<Vec<String>>();
+    words.sort();
+    words
+});
 
-    static WORDS: LazyLock<Vec<String>> = LazyLock::new(|| {
-        let mut words = 
-            include_str!("words.txt")
-                .to_ascii_uppercase()
-                .lines()
-                .map(str::to_owned)
-                .collect::<Vec<String>>();
-        words.sort();
-        words
-    });
+pub fn is_valid_word(word: String) -> bool {
+    WORDS.binary_search(&word).is_ok()
+}
 
-    pub fn is_valid_word(word: String) -> bool {
-        WORDS.binary_search(&word).is_ok()
-    }
+pub fn remove_last_word_tried() { /* do nothing */ }
+pub fn add_last_word_tried() { /* do nothing */ }
 
-    pub fn remove_last_word_tried() { /* do nothing */ }
-    pub fn add_last_word_tried() { /* do nothing */ }
-
-    pub fn initialize() {
-        LazyLock::force(&WORDS);
-    }
+pub fn initialize() {
+    LazyLock::force(&WORDS);
 }
 
 fn parse_levels(level_data: &'static str) -> impl Iterator<Item=String> {
@@ -44,8 +38,6 @@ fn parse_levels(level_data: &'static str) -> impl Iterator<Item=String> {
 }
 
 pub fn levels() -> impl Iterator<Item=String> {
-    #[cfg(    feature="experimental-levels") ] {parse_levels(include_str!("levels-experimental.txt"))}
-    #[cfg(not(feature="experimental-levels"))] {parse_levels(include_str!("levels.txt"))}
+    parse_levels(include_str!("levels.txt"))
 }
 
-pub use production::*;

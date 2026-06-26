@@ -12,8 +12,5 @@ path = "src/main.rs"
 name = "solver"
 path = "src/solver.rs"
 
-[features]
-experimental-levels = [] # feature has no explicit dependencies
-
 [dependencies]
 sfml = "0.24.0"
