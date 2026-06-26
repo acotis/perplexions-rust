@@ -29,69 +29,6 @@ mod production {
     }
 }
 
-#[allow(unused)]
-mod development {
-    use crate::live_list::LiveList;
-    use std::sync::Mutex;
-
-    // DYNAMIC IMPLEMENTATION: USE ONLY WHEN TESTING.
-
-    static WORDS: Mutex<LiveList> = Mutex::new(LiveList::new("src/words.txt"));
-    static LAST_WORD_TRIED: Mutex<String> = Mutex::new(String::new());
-
-    pub fn is_valid_word(word: String) -> bool {
-        //println!("trying word: {word}");
-        *LAST_WORD_TRIED.lock().unwrap() = word.clone();
-        WORDS.lock().unwrap().binary_search(&word).is_ok()
-    }
-
-    pub fn starts_valid_word(word: String) -> bool {
-        let lock = WORDS.lock().unwrap();
-
-        match lock.binary_search(&word) {
-            Ok (pos) => lock.get(pos + 1).is_some_and(|w| w.starts_with(&word)),
-            Err(pos) => lock.get(pos    ).is_some_and(|w| w.starts_with(&word)),
-        }
-    }
-
-    pub fn load_words() {
-        WORDS.lock().unwrap().load()
-    }
-
-    pub fn save_words() {
-        WORDS.lock().unwrap().save()
-    }
-
-    pub fn remove_last_word_tried() {
-        let last = LAST_WORD_TRIED.lock().unwrap();
-        WORDS.lock().unwrap().retain(|word| *word != *last);
-        save_words();
-
-        let grey = "\x1b[38;5;250m";
-        let reset = "\x1b[0m";
-        println!("{grey}removed {last}{reset}");
-    }
-
-    pub fn add_last_word_tried() {
-        let last = LAST_WORD_TRIED.lock().unwrap();
-
-        println!("adding the last word: {last}");
-
-        {
-            let mut lock = WORDS.lock().unwrap();
-            if let Err(pos) = lock.binary_search(&*last) {
-                lock.insert(pos, last.clone());
-            }
-        }
-        
-        save_words();
-    }
-
-    pub fn initialize() {
-        load_words();
-    }
-}
-
 fn parse_levels(level_data: &'static str) -> impl Iterator<Item=String> {
     level_data
         .split("——————————")
@@ -111,6 +48,4 @@ pub fn levels() -> impl Iterator<Item=String> {
     #[cfg(not(feature="experimental-levels"))] {parse_levels(include_str!("levels.txt"))}
 }
 
-#[cfg(    feature="development") ] pub use development::*;
-#[cfg(not(feature="development"))] pub use production::*;
-
+pub use production::*;

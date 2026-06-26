@@ -13,7 +13,6 @@ name = "solver"
 path = "src/solver.rs"
 
 [features]
-development = [] # feature has no explicit dependencies
 experimental-levels = [] # feature has no explicit dependencies
 
 [dependencies]
